@@ -1,0 +1,8 @@
+train/
+valid/
+output/
+__pycache__/
+
+augmentation.py
+main.py
+dataset.py

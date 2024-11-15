@@ -1,0 +1,14 @@
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.pth
+test/
+
+__pycache__/
+
+!images/
+!images/*.jpg
+!train/demo_label.png
+!train/demo_image.jpg
+!checkpoint/orchid_petal.pth

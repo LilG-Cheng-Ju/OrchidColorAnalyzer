@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+nest_asyncio
+torch
+opencv-python 
+scikit-learn
+pyyaml
+python-multipart
+segmentation_models_pytorch
+numpy==1.24.3

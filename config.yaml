@@ -1,0 +1,4 @@
+port: 6666
+model_path: checkpoint/orchid_petal.pth
+device: cuda
+default_image_size: [864, 864]
