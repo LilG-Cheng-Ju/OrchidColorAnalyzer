@@ -9,6 +9,7 @@ __pycache__/
 
 !images/
 !images/*.jpg
+!images/*.png
 !train/demo_label.png
 !train/demo_image.jpg
 !checkpoint/orchid_petal.pth
